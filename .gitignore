@@ -1,0 +1,49 @@
+/dist
+/tmp
+/out-tsc
+/bazel-out
+
+# Node
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Visual Studio Code
+/.vscode/*
+.history/*
+
+# Miscellaneous
+/Angular/.angular/cache
+.sass-cache/
+/connect.lock
+/coverage
+/libpeerconnection.log
+testem.log
+/typings
+
+# System files
+.DS_Store
+Thumbs.db
+
+
+.idea/
+.vscode/
+
+__pycache__/
+
+source/content/media/
+source/content/static/
+
+env/
+tmp/
+
+db.sqlite3

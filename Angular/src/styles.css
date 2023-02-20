@@ -1,0 +1,43 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.mat-mdc-tab-list{
+    margin-bottom: 50px;
+}
+.mat-mdc-tab-body-wrapper {
+    box-shadow: 5px 5px 5px 5px #e5e3e3;
+}
+.cntr{
+    padding: 8px;
+}
+.heading{
+    text-align: center;
+    padding: 20px;
+    background: #686868;
+    color: #ebe7e7;
+    font-weight: 600;
+    font-family: cursive;
+}
+.click_btn{
+    text-decoration: none;
+    margin: 0;
+    padding: 2px;
+    width: fit-content;
+    height: 25px;
+    width: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    color: white;
+    cursor: pointer;
+}
+.like_btn
+{
+    background-color: green;
+}
+
+.dislike_btn{
+    background-color: red;
+}
