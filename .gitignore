@@ -2,9 +2,9 @@
 /tmp
 /out-tsc
 /bazel-out
-
+Angular/package-lock.json
 # Node
-/node_modules
+node_modules
 npm-debug.log
 yarn-error.log
 
